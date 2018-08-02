@@ -510,7 +510,7 @@
             "theme": "block",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-1600x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1600x533.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/mbr-1920x1255.jpg",
@@ -520,7 +520,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-11-1600x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-12-1600x533.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/mbr-11-1920x1280.jpg",
@@ -541,7 +541,7 @@
             "bgColor": "#ff7f00",
             "timeout": "2",
             "duration": "2",
-            "customSize": true,
+            "customSize": false,
             "customWidth": "1800",
             "customHeight": "600",
             "size": "1024x576",
