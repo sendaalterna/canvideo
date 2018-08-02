@@ -510,16 +510,6 @@
             "theme": "block",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1600x533.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-3-85x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-5-1600x960.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
@@ -527,14 +517,14 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-1-85x48.png",
                 "title": "title 2hhh",
                 "text": "text 2",
-                "active": false
+                "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-10-1600x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-11-1600x533.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-10-1920x1280.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-10-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/mbr-11-1920x1280.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-11-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
