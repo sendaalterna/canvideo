@@ -507,7 +507,7 @@
           "_params": {
             "autoplay": true,
             "animType": "brick",
-            "theme": "animated",
+            "theme": "block",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/canstockphoto55015778-1600x960.jpg",
@@ -517,7 +517,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/canstockphoto55015778-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/canstockphoto55120726-1600x960.jpg",
@@ -537,7 +537,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/canstockphoto55015776-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
